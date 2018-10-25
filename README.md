@@ -1,2 +1,2 @@
 # profile
-a custom profile page
+This is a custom profile page skeleton
